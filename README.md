@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnab
 - 👀 I’m interested in open source projects
-- 🌱 I’m currently learning UI/UX and android development
+- 🌱 I’m currently learning web-dev and DSA
 - 💞️ I’m looking to collaborate on innovative projects and ideas
 - 📫 You can reach me on https://www.linkedin.com/in/iam-arnab-expect-me/
 
