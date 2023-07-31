@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arnabsen731@gmail.com**
 
-- ⚡ Fun fact **I have pretty good sense of humor**
+- ⚡ Fun fact : **I have pretty good sense of humor**
 
 
  
