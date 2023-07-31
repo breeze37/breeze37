@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=breeze37" alt="breeze37" /></a> </p>
 
-- 🌱 I’m currently learning **golang and backend**
+- 🌱 I’m currently learning **golang and react.js**
 
 - 📝 I regularly write articles on [https://medium.com/@iamarnab](https://medium.com/@iamarnab)
 
