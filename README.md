@@ -13,9 +13,7 @@
 
 - ⚡ Fun fact **I have pretty good sense of humor**
 
-<-- ### Blogs posts -->
-<-- BLOG-POST-LIST:START -->
-<-- BLOG-POST-LIST:END -->
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
